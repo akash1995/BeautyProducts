@@ -1,0 +1,6 @@
+module Pods_beautyproduct {
+  umbrella header "Pods-beautyproduct-umbrella.h"
+
+  export *
+  module * { export * }
+}
